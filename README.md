@@ -21,7 +21,7 @@ This repository project There are 2 project server and client
 - **[PHP](https://www.php.net/downloads.php/)**
 - **[XAMPP](https://www.apachefriends.org/)**
 
-### Software required run project
+### command and step to run
 
 How to run backend project plz help to follow this step 
 
@@ -58,3 +58,6 @@ In the project we are using `MVC` pattern
 ### Software required run project
 
 - **[Node js](https://nodejs.org/en/)**
+
+### command and step to run
+How to run frontend project plz help to follow this step 
