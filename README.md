@@ -17,5 +17,5 @@ This repository project There are 2 project server and client
 ### Software required
 
 - **[Composer](https://getcomposer.org/download/)**
-- **[PHP]([https://tighten.co](https://www.php.net/downloads.php))**
+- **[PHP]([https://tighten.co](https://www.php.net/downloads.php)/)**
 - **[Xampp]([https://kirschbaumdevelopment.com](https://www.apachefriends.org/))**
