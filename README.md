@@ -25,4 +25,5 @@ This repository project There are 2 project server and client
 
 How to run backend project plz help to follow this step 
 
-### `Open Folder project on VS code [VS code]([https://www.apachefriends.org/](https://code.visualstudio.com/download))`
+### `Open Folder project on VS code`
+- **[Install Vs code](https://code.visualstudio.com/download/)**
