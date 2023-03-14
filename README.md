@@ -43,6 +43,7 @@ Run migratetion to create table in databass
 After run migrate plz make sure aleady create databass in `mysql phpmyadmin` name databass like value env  
 
 ### `php artisan serve`
-run to serve server project 
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
