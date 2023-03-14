@@ -29,17 +29,18 @@ How to run backend project plz help to follow this step
 - **[Install Vs code](https://code.visualstudio.com/download/)**
 
 ### `cd server`
-cd to folder directory server or backend  
+Cd to folder directory server or backend  
 
 ### `create file call .env`
-file `.env` content compy from file `.env.example`
+File `.env` content compy from file `.env.example`
 
 ### `composer install or composer update`
-run to install dependencies of project
+Run to install dependencies of project
 
 ### `php artisan migrate`
-run migratetion to create table in databass 
-after run 
+Run migratetion to create table in databass 
+<br />
+After run migrate plz make sure aleady create databass in `mysql phpmyadmin` name databass like value env  
 
 ### `php artisan serve`
 run to serve server project 
