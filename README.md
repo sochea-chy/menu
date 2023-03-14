@@ -29,7 +29,7 @@ How to run backend project plz help to follow this step
 - **[Install Vs code](https://code.visualstudio.com/download/)**
 
 ### `cd server`
-Cd to folder directory server or backend  
+Cd to folder directory server
 
 ### `create file call .env`
 File `.env` content compy from file `.env.example`
@@ -61,3 +61,9 @@ In the project we are using `MVC` pattern
 
 ### command and step to run
 How to run frontend project plz help to follow this step 
+
+### `Open Folder project on VS code`
+- **[Install Vs code](https://code.visualstudio.com/download/)**
+
+### `cd client`
+Cd to folder directory client
