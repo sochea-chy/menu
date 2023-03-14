@@ -14,8 +14,15 @@ This repository project There are 2 project server and client
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-### Software required
+
+### Software required run pro
 
 - **[Composer](https://getcomposer.org/download/)**
 - **[PHP](https://www.php.net/downloads.php/)**
 - **[XAMPP](https://www.apachefriends.org/)**
+
+### Software required run project
+
+How to run backend project plz help to follow this step 
+
+### `Open Folder project on VS code [VS code]([https://www.apachefriends.org/](https://code.visualstudio.com/download))`
