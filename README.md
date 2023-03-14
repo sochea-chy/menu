@@ -46,4 +46,6 @@ After run migrate plz make sure aleady create databass in `mysql phpmyadmin` nam
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-
+## Project structure and pattern 
+In the project we are using `MVC` pattern 
+<p><a href="https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png" width="400" alt="Laravel Logo"></a></p>
