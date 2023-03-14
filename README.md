@@ -2,6 +2,11 @@
 
 # How to clone project
 
-how to clone project git repository help to follow this command
+How to clone project git repository help to follow this command
 
 ### `git clone https://github.com/sochea-chy/menu.git`
+
+# How to run project
+
+This repository project There are 2 project server and client
+
