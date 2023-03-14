@@ -15,7 +15,7 @@ This repository project There are 2 project server and client
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 
-### Software required run pro
+### Software required run project
 
 - **[Composer](https://getcomposer.org/download/)**
 - **[PHP](https://www.php.net/downloads.php/)**
@@ -49,3 +49,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Project structure and pattern 
 In the project we are using `MVC` pattern 
 <p><a href="https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png" width="400" alt="Laravel Logo"></a></p>
+
+## Run client or frontend project
+
+<p align="center"><a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&fit=max&w=1200" width="400" alt="Laravel Logo"></a></p>
+
+
+### Software required run project
+
+- **[Node js](https://nodejs.org/en/)**
