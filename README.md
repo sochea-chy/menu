@@ -43,9 +43,11 @@ Run migratetion to create table in databass
 After run migrate plz make sure aleady create databass in `mysql phpmyadmin` name databass like value env  
 
 ### `php artisan db:seed`
-Run seed for create a user as admin 
+Run seed for create a user as admin <br />
 
-
+Credentials for login <br />
+email: admin@gmail.com <br />
+password: admin@123 <br />
 
 ### `php artisan serve`
 Runs the app in the development mode.
