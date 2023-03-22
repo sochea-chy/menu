@@ -42,6 +42,11 @@ Run migratetion to create table in databass
 <br />
 After run migrate plz make sure aleady create databass in `mysql phpmyadmin` name databass like value env  
 
+### `php artisan db:seed`
+Run seed for create a user as admin 
+
+
+
 ### `php artisan serve`
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
