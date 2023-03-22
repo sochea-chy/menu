@@ -44,10 +44,12 @@ After run migrate plz make sure aleady create databass in `mysql phpmyadmin` nam
 
 ### `php artisan db:seed`
 Run seed for create a user as admin <br />
-
 Credentials for login <br />
+```
 email: admin@gmail.com <br />
 password: admin@123 <br />
+
+```
 
 ### `php artisan serve`
 Runs the app in the development mode.
