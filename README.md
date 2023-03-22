@@ -46,9 +46,8 @@ After run migrate plz make sure aleady create databass in `mysql phpmyadmin` nam
 Run seed for create a user as admin <br />
 Credentials for login <br />
 ```
-email: admin@gmail.com <br />
-password: admin@123 <br />
-
+Email: admin@gmail.com
+Password: admin@123
 ```
 
 ### `php artisan serve`
