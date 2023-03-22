@@ -52,7 +52,6 @@ Password: admin@123
 
 ### `php artisan serve`
 Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Project structure and pattern 
 In the project we are using `MVC` pattern 
